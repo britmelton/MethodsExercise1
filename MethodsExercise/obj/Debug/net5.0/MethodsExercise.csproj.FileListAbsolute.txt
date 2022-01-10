@@ -1,0 +1,16 @@
+C:\Users\britt\reposTC\MethodsExercise\MethodsExercise\bin\Debug\net5.0\MethodsExercise.exe
+C:\Users\britt\reposTC\MethodsExercise\MethodsExercise\bin\Debug\net5.0\MethodsExercise.deps.json
+C:\Users\britt\reposTC\MethodsExercise\MethodsExercise\bin\Debug\net5.0\MethodsExercise.runtimeconfig.json
+C:\Users\britt\reposTC\MethodsExercise\MethodsExercise\bin\Debug\net5.0\MethodsExercise.runtimeconfig.dev.json
+C:\Users\britt\reposTC\MethodsExercise\MethodsExercise\bin\Debug\net5.0\MethodsExercise.dll
+C:\Users\britt\reposTC\MethodsExercise\MethodsExercise\bin\Debug\net5.0\ref\MethodsExercise.dll
+C:\Users\britt\reposTC\MethodsExercise\MethodsExercise\bin\Debug\net5.0\MethodsExercise.pdb
+C:\Users\britt\reposTC\MethodsExercise\MethodsExercise\obj\Debug\net5.0\MethodsExercise.csproj.AssemblyReference.cache
+C:\Users\britt\reposTC\MethodsExercise\MethodsExercise\obj\Debug\net5.0\MethodsExercise.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\britt\reposTC\MethodsExercise\MethodsExercise\obj\Debug\net5.0\MethodsExercise.AssemblyInfoInputs.cache
+C:\Users\britt\reposTC\MethodsExercise\MethodsExercise\obj\Debug\net5.0\MethodsExercise.AssemblyInfo.cs
+C:\Users\britt\reposTC\MethodsExercise\MethodsExercise\obj\Debug\net5.0\MethodsExercise.csproj.CoreCompileInputs.cache
+C:\Users\britt\reposTC\MethodsExercise\MethodsExercise\obj\Debug\net5.0\MethodsExercise.dll
+C:\Users\britt\reposTC\MethodsExercise\MethodsExercise\obj\Debug\net5.0\ref\MethodsExercise.dll
+C:\Users\britt\reposTC\MethodsExercise\MethodsExercise\obj\Debug\net5.0\MethodsExercise.pdb
+C:\Users\britt\reposTC\MethodsExercise\MethodsExercise\obj\Debug\net5.0\MethodsExercise.genruntimeconfig.cache
