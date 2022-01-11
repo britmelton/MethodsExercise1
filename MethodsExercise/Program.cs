@@ -6,13 +6,13 @@ namespace MethodsExercise
     {
         static void Main(string[] args)
         {
-            var name = GetName();
-            var age = GetAge();
-            var pet = GetPet();
-            var petName = GetPetName();
-            var petColor = GetPetColor();
-            var petAge = GetPetAge();
-
+            var name = Prompt("What is your name?");
+            var age = Prompt("\nHow many years did Rose say it has been in Titanic?");
+            var pet = Prompt("\nWhat kind of pet do you have or want?");
+            var petName = Prompt("\nWhat is your pets name?");
+            var petColor = Prompt("\nWhat is the color of your Pet?");
+            var petAge = Prompt("\nhow old is your pet?");
+            
             Console.WriteLine($"\nThere once was a person named {name}, they were {age} years old. They had a {petColor} {pet} named {petName}.");
             Console.WriteLine($"{name} loved saying \"it\'s been 84 years\" just like Rose from Titanic.");
             
@@ -31,39 +31,18 @@ namespace MethodsExercise
 
                 }
         }
-        public static string GetName()
+
+        /// <summary>
+        /// ask user for input
+        /// </summary>
+        /// <param name="txt">the question</param>
+        /// <returns></returns>
+        public static string Prompt(string txt)
         {
-            Console.WriteLine("What is your name?");
-            return Console.ReadLine();
-        }
-        public static string GetAge()
-        {
-            Console.WriteLine("\nHow many years did Rose say it has been in Titanic?");
-            return Console.ReadLine();
-        }
-        public static string GetPet()
-        {
-            Console.WriteLine("\nWhat kind of pet do you have or want?");
-            return Console.ReadLine();
-        }
-        public static string GetPetName()
-        {
-            Console.WriteLine("\nWhat is your pets name?");
-            return Console.ReadLine();
-        }
-        public static string GetPetColor()
-        {
-            Console.WriteLine("\nWhat is the color of your Pet?");
-            return Console.ReadLine();
-        }
-        public static string GetPetAge()
-        {
-            Console.WriteLine("\nhow old is your pet?");
-           
+            Console.WriteLine(txt); 
             return Console.ReadLine();
 
         }
-
 
     }
 
