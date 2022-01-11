@@ -13,20 +13,23 @@ namespace MethodsExercise
             var petColor = GetPetColor();
             var petAge = GetPetAge();
 
-            Console.WriteLine($"\nThere was a girl named {name}, she was {age} years old. She had a {petColor} {pet} named {petName}.");
-            Console.WriteLine("She loved saying \"it\'s been 84 years\" just like Rose from Titanic.");
-
+            Console.WriteLine($"\nThere once was a person named {name}, they were {age} years old. They had a {petColor} {pet} named {petName}.");
+            Console.WriteLine($"{name} loved saying \"it\'s been 84 years\" just like Rose from Titanic.");
             
-            for (int i = 12; i == Convert.ToInt32(petAge); i++)
-                 if (i == 12)
-                 {
-                   
-                    Console.WriteLine($"Not only was {name} {age} years old. Her {pet} was {i} which, in dog years makes {age} years.");
-                   
-                 }
+            int i = 12;
+
+                if (i == Convert.ToInt32(petAge))
+                {
+
+                    Console.WriteLine($"Not only was {name} {age} years old. {petName} was {i} which, in dog years makes {age} years.");
+
+                }
+                else
+                {
+                    Console.WriteLine($"{name}\'s {pet} {petName} was {petAge} years old, {name} wishes to be that young again.");
 
 
-
+                }
         }
         public static string GetName()
         {
@@ -47,7 +50,6 @@ namespace MethodsExercise
         {
             Console.WriteLine("\nWhat is your pets name?");
             return Console.ReadLine();
-
         }
         public static string GetPetColor()
         {
@@ -63,23 +65,6 @@ namespace MethodsExercise
         }
 
 
-
-        
-
-
-
-
-
-
-
-
-
     }
-
-
-
-
-
-
 
 }
