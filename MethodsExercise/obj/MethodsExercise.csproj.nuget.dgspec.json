@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\britt\\reposTC\\MethodsExercise\\MethodsExercise\\MethodsExercise.csproj": {}
+    "C:\\Users\\britt\\reposTC\\createAStory-methodsExercise1\\MethodsExercise\\MethodsExercise.csproj": {}
   },
   "projects": {
-    "C:\\Users\\britt\\reposTC\\MethodsExercise\\MethodsExercise\\MethodsExercise.csproj": {
+    "C:\\Users\\britt\\reposTC\\createAStory-methodsExercise1\\MethodsExercise\\MethodsExercise.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\britt\\reposTC\\MethodsExercise\\MethodsExercise\\MethodsExercise.csproj",
+        "projectUniqueName": "C:\\Users\\britt\\reposTC\\createAStory-methodsExercise1\\MethodsExercise\\MethodsExercise.csproj",
         "projectName": "MethodsExercise",
-        "projectPath": "C:\\Users\\britt\\reposTC\\MethodsExercise\\MethodsExercise\\MethodsExercise.csproj",
+        "projectPath": "C:\\Users\\britt\\reposTC\\createAStory-methodsExercise1\\MethodsExercise\\MethodsExercise.csproj",
         "packagesPath": "C:\\Users\\britt\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\britt\\reposTC\\MethodsExercise\\MethodsExercise\\obj\\",
+        "outputPath": "C:\\Users\\britt\\reposTC\\createAStory-methodsExercise1\\MethodsExercise\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\britt\\AppData\\Roaming\\NuGet\\NuGet.Config",

@@ -6,6 +6,13 @@ namespace MethodsExercise
     {
         static void Main(string[] args)
         {
+
+            //In class Exercise to practice methods
+            //Write a C# program that takes user input and creates a story.
+            //Use Console.ReadLine() to take user input and store the input into a variable.
+            //Extra points: turn the answers into a fun short story!
+
+
             var name = Prompt("What is your name?");
             var age = Prompt("\nHow many years did Rose say it has been in Titanic?");
             var pet = Prompt("\nWhat kind of pet do you have or want?");
@@ -16,7 +23,7 @@ namespace MethodsExercise
             Console.WriteLine($"\nThere once was a person named {name}, they were {age} years old. They had a {petColor} {pet} named {petName}.");
             Console.WriteLine($"{name} loved saying \"it\'s been 84 years\" just like Rose from Titanic.");
             
-            int i = 12;
+            int i = 12; 
 
                 if (i == Convert.ToInt32(petAge))
                 {
